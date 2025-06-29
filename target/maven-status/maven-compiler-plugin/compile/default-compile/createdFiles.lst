@@ -1,0 +1,8 @@
+app\repository\AlunoRepository.class
+app\Server$StaticFileHandler.class
+app\controller\AlunoController.class
+app\AlunoHttpHandler.class
+app\model\Aluno.class
+app\WebServer.class
+app\service\AlunoService.class
+app\Server.class
